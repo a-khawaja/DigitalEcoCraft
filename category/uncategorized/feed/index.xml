@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; SoftwareSolutions</title>
+	<title>Uncategorized &#8211; Digital Ecocraft</title>
 	<atom:link href="https://a-khawaja.github.io/testRepo//category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://a-khawaja.github.io/testRepo//</link>
 	<description></description>
@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Hello world!</title>
 		<link>https://a-khawaja.github.io/testRepo//hello-world/</link>
