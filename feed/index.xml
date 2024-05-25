@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Digital Ecocraft</title>
-	<atom:link href="https://a-khawaja.github.io/testRepo//feed/" rel="self" type="application/rss+xml" />
-	<link>https://a-khawaja.github.io/testRepo//</link>
+	<atom:link href="https://a-khawaja.github.io/DigitalEcoCraft//feed/" rel="self" type="application/rss+xml" />
+	<link>https://a-khawaja.github.io/DigitalEcoCraft//</link>
 	<description>Digital Agency Website</description>
 	<lastBuildDate>Fri, 15 Dec 2023 11:47:33 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.5.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://a-khawaja.github.io/testRepo//hello-world/</link>
-					<comments>https://a-khawaja.github.io/testRepo//hello-world/#comments</comments>
+		<link>https://a-khawaja.github.io/DigitalEcoCraft//hello-world/</link>
+					<comments>https://a-khawaja.github.io/DigitalEcoCraft//hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[Haccen]]></dc:creator>
 		<pubDate>Fri, 15 Dec 2023 11:47:33 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://a-khawaja.github.io/testRepo//?p=1</guid>
+		<guid isPermaLink="false">https://a-khawaja.github.io/DigitalEcoCraft//?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://a-khawaja.github.io/testRepo//hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://a-khawaja.github.io/DigitalEcoCraft//hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
