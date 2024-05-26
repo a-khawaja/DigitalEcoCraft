@@ -8,9 +8,9 @@
 <channel>
 	<title>
 	Comments for Digital Ecocraft	</title>
-	<atom:link href="https://a-khawaja.github.io/testRepo//comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://a-khawaja.github.io/testRepo//</link>
-	<description></description>
+	<atom:link href="https://a-khawaja.github.io/DigitalEcoCraft//comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://a-khawaja.github.io/DigitalEcoCraft//</link>
+	<description>Digital Agency Website</description>
 	<lastBuildDate>Fri, 15 Dec 2023 11:47:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://a-khawaja.github.io/testRepo//hello-world/#comment-1</link>
+		<link>https://a-khawaja.github.io/DigitalEcoCraft//hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Fri, 15 Dec 2023 11:47:33 +0000</pubDate>
-		<guid isPermaLink="false">https://a-khawaja.github.io/testRepo//?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://a-khawaja.github.io/DigitalEcoCraft//?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
